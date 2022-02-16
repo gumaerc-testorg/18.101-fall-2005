@@ -2,8 +2,13 @@
 content_type: resource
 description: 'This resource explains the topics: The d operator, pullback operator
   on exterior forms.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-101-analysis-ii-fall-2005/4e0740a6723c45b2e6704719b4dc5b00_lecture22.pdf
+file: /media/courses/18-101-analysis-ii-fall-2005/4e0740a6723c45b2e6704719b4dc5b00_lecture22.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lecture22.pdf
 uid: 4e0740a6-723c-45b2-e670-4719b4dc5b00

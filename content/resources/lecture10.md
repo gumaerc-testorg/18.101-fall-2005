@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource provides information regarding fubini theorem and properties
   of riemann integrals
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-101-analysis-ii-fall-2005/2aa68aa090ec05f6b89888b72c5be1ce_lecture10.pdf
+file: /media/courses/18-101-analysis-ii-fall-2005/2aa68aa090ec05f6b89888b72c5be1ce_lecture10.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lecture10.pdf
 uid: 2aa68aa0-90ec-05f6-b898-88b72c5be1ce
