@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 1994b8e1-18bd-c3cf-face-c5022ac02f27
 resourcetype: Document
 title: classnotesfall04.pdf
 uid: 4aa13eec-01f3-f70b-d6ee-eb7820d861a9
