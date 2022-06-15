@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource explains the topics: Integration on manifolds, degree
   on manifolds.'
-file: /media/courses/18-101-analysis-ii-fall-2005/84414452f24d1dab07557858a3a06d55_lecture35.pdf
+file: /courses/18-101-analysis-ii-fall-2005/84414452f24d1dab07557858a3a06d55_lecture35.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -14,3 +14,5 @@ resourcetype: Document
 title: lecture35.pdf
 uid: 84414452-f24d-1dab-0755-7858a3a06d55
 ---
+This resource explains the topics: Integration on manifolds, degree on manifolds.
+

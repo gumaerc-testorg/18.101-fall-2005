@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'The assignment scetion includes two types of assignments given in this
+  course: daily assignments and graded assignments.'
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -15,9 +17,9 @@ Assignments listed in the table below are from the following textbooks and notes
 
 (S) Spivak, M. _Calculus on Manifolds: A Modern Approach to Classical Theorems of Advanced Calculus_. Cambridge, MA: Perseus Publishing, 1965. ISBN: 0805390219.
 
-(MLA) Notes on Multi-linear Algebra ([PDF]({{< baseurl >}}/resources/classnotesfall04))
+(MLA) Notes on Multi-linear Algebra ({{% resource_link 4aa13eec-01f3-f70b-d6ee-eb7820d861a9 "PDF" %}})
 
-(SN) Supplementary Notes ([PDF]({{< baseurl >}}/resources/suppnotes))
+(SN) Supplementary Notes ({{% resource_link 973b668d-233a-7fd1-193b-7a4224ee8a1b "PDF" %}})
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -351,7 +353,7 @@ Determinant, Orientations of Vector Spaces
 MLA, section 6: 2, 3, 4, 5
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/ps3_05))
+({{% resource_link c5c2cd2a-a7c7-4b1f-4ad6-38c6cf1d4867 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -592,7 +594,7 @@ Integration on Manifolds, Degree on Manifolds
 Degree on Manifolds (cont.), Hopf Theorem
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/hw36))
+({{% resource_link 634c48ba-35f8-cd82-c4d3-6a52d50b8f64 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -607,7 +609,7 @@ Degree on Manifolds (cont.), Hopf Theorem
 Integration on Smooth Domains
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/hw37))
+({{% resource_link 5286f90f-7a82-89ee-de7d-811e5c8b5d6e "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  

@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource explains the topics: The d operator, pullback operator
   on exterior forms.'
-file: /media/courses/18-101-analysis-ii-fall-2005/4e0740a6723c45b2e6704719b4dc5b00_lecture22.pdf
+file: /courses/18-101-analysis-ii-fall-2005/4e0740a6723c45b2e6704719b4dc5b00_lecture22.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -14,3 +14,5 @@ resourcetype: Document
 title: lecture22.pdf
 uid: 4e0740a6-723c-45b2-e670-4719b4dc5b00
 ---
+This resource explains the topics: The d operator, pullback operator on exterior forms.
+

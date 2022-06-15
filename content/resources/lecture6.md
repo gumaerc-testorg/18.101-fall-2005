@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides information regarding inverse function theorem
   and 4 lemmas.
-file: /media/courses/18-101-analysis-ii-fall-2005/d2c8fc5fe57cd59efc99caa048983d4c_lecture6.pdf
+file: /courses/18-101-analysis-ii-fall-2005/d2c8fc5fe57cd59efc99caa048983d4c_lecture6.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -14,3 +14,5 @@ resourcetype: Document
 title: lecture6.pdf
 uid: d2c8fc5f-e57c-d59e-fc99-caa048983d4c
 ---
+This resource provides information regarding inverse function theorem and 4 lemmas.
+
