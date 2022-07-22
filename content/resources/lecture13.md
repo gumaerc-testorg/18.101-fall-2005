@@ -6,6 +6,7 @@ file: /courses/18-101-analysis-ii-fall-2005/88e9159035a7fd983c30af56168f33bf_lec
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture13.pdf
 uid: 88e91590-35a7-fd98-3c30-af56168f33bf
 ---
 This resource provides information regarding exhaustions along with some definitions, remarks and corollary.
-

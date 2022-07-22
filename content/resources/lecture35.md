@@ -6,6 +6,7 @@ file: /courses/18-101-analysis-ii-fall-2005/84414452f24d1dab07557858a3a06d55_lec
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture35.pdf
 uid: 84414452-f24d-1dab-0755-7858a3a06d55
 ---
 This resource explains the topics: Integration on manifolds, degree on manifolds.
-

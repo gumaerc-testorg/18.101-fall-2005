@@ -5,6 +5,7 @@ file: /courses/18-101-analysis-ii-fall-2005/8f5cc88d4b6d8e97e2988fa9bbffb736_lec
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture29.pdf
 uid: 8f5cc88d-4b6d-8e97-e298-8fa9bbffb736
 ---
 This resource explains the topic topological invariance of degree.
-

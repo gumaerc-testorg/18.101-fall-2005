@@ -6,6 +6,7 @@ file: /courses/18-101-analysis-ii-fall-2005/8746a8f44de079dda7b3d5116f3fc936_lec
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture14.pdf
 uid: 8746a8f4-4de0-79dd-a7b3-d5116f3fc936
 ---
 This resource provides information regarding support?and?compact?support and partitions?of?Unity along with the definitions.
-

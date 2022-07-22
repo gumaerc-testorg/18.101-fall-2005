@@ -6,6 +6,7 @@ file: /courses/18-101-analysis-ii-fall-2005/af6a8dacd9c15ce839255eb69415a8b2_lec
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture20.pdf
 uid: af6a8dac-d9c1-5ce8-3925-5eb69415a8b2
 ---
 This resource explains the topics: determinant, orientations of vector spaces.
-

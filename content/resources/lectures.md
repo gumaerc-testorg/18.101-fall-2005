@@ -8,6 +8,7 @@ file: /courses/18-101-analysis-ii-fall-2005/babd982be745679b6d691f78b1c18f53_lec
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: lectures.pdf
 uid: babd982b-e745-679b-6d69-1f78b1c18f53
 ---
 This resource contains a table of content of the lecture topics covered in the class e.g. review of topology, differentiation, integration, multi-linear algebra, integration with differential forms, and manifolds. It also covers these topics in detail.
-

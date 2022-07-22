@@ -6,6 +6,7 @@ file: /courses/18-101-analysis-ii-fall-2005/96d40deae73e28e888fb9ad80596f674_lec
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture38.pdf
 uid: 96d40dea-e73e-28e8-88fb-9ad80596f674
 ---
 This resource explains the topics: Integration on smooth domains, Stokes' theorem.
-

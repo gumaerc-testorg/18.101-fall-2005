@@ -6,6 +6,7 @@ file: /courses/18-101-analysis-ii-fall-2005/2aa68aa090ec05f6b89888b72c5be1ce_lec
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture10.pdf
 uid: 2aa68aa0-90ec-05f6-b898-88b72c5be1ce
 ---
 This resource provides information regarding fubini theorem and properties of riemann integrals
-

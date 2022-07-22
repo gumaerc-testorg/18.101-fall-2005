@@ -7,6 +7,7 @@ file: /courses/18-101-analysis-ii-fall-2005/b2ed7e6d307186bcedb8770ee37aa10e_lec
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -17,4 +18,3 @@ uid: b2ed7e6d-3071-86bc-edb8-770ee37aa10e
 ---
 This resource provides information regarding review of topology
 metric spaces, open and closed sets, continuity and limit points and closure.
-

@@ -5,6 +5,7 @@ file: /courses/18-101-analysis-ii-fall-2005/9fbab1cdcf1891806edaeb361c5976c3_lec
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture2.pdf
 uid: 9fbab1cd-cf18-9180-6eda-eb361c5976c3
 ---
 This resource provides information regarding compactness and connectedness.
-

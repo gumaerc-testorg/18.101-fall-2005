@@ -5,6 +5,7 @@ file: /courses/18-101-analysis-ii-fall-2005/206cccfaa367f1035e850f2f42518c69_lec
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture24.pdf
 uid: 206cccfa-a367-f103-5e85-0f2f42518c69
 ---
 This resource explains Poincare theorem.
-

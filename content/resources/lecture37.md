@@ -5,6 +5,7 @@ file: /courses/18-101-analysis-ii-fall-2005/6686d4a6234477939e991c20482a7204_lec
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture37.pdf
 uid: 6686d4a6-2344-7793-9e99-1c20482a7204
 ---
 This resource explains the topic integration on smooth domains.
-
