@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: The readings section includes required and recommended readings for this
+  course.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 45bef2ea-a8bb-16f5-8997-d3885e2ed572
 ---
@@ -10,9 +15,9 @@ Readings listed in the table below are from the following textbooks and notes:
 
 (S) Spivak, M. _Calculus on Manifolds: A Modern Approach to Classical Theorems of Advanced Calculus_. Cambridge, MA: Perseus Publishing, 1965. ISBN: 0805390219.
 
-(MLA) Notes on Multi-linear Algebra ([PDF]({{< baseurl >}}/resources/classnotesfall04))
+(MLA) Notes on Multi-linear Algebra ({{% resource_link 4aa13eec-01f3-f70b-d6ee-eb7820d861a9 "PDF" %}})
 
-(SN) Supplementary Notes ([PDF]({{< baseurl >}}/resources/suppnotes))
+(SN) Supplementary Notes ({{% resource_link 973b668d-233a-7fd1-193b-7a4224ee8a1b "PDF" %}})
 
 {{< tableopen >}}
 {{< theadopen >}}

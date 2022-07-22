@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: The syllabus section includes prerequisites, homework, texts, and grading
+  criteria for this course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: ffbeddfc-0cc3-de1f-6355-7d3469ef61e4
 ---
