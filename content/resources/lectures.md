@@ -5,6 +5,7 @@ description: This resource contains a table of content of the lecture topics cov
   algebra, integration with differential forms, and manifolds. It also covers these
   topics in detail.
 file: /courses/18-101-analysis-ii-fall-2005/babd982be745679b6d691f78b1c18f53_lectures.pdf
+file_size: 1688453
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

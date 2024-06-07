@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource explains Poincare theorem.
 file: /courses/18-101-analysis-ii-fall-2005/206cccfaa367f1035e850f2f42518c69_lecture24.pdf
+file_size: 185191
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

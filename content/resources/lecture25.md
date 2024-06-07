@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource explains the generalization of Poincare lemma.
 file: /courses/18-101-analysis-ii-fall-2005/a1e3b0b015ecfe1433e6a551044b1c32_lecture25.pdf
+file_size: 182208
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

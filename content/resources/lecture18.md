@@ -3,6 +3,7 @@ content_type: resource
 description: This resource provides information regarding a quick review of permutations
   along with some definitions, remarks and corollary.
 file: /courses/18-101-analysis-ii-fall-2005/d095347ff644dcb0eaca4b22c3c00bd2_lecture18.pdf
+file_size: 396598
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
