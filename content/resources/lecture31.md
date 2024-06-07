@@ -3,6 +3,7 @@ content_type: resource
 description: This resource gives some examples of manifolds to better explain the
   topic.
 file: /courses/18-101-analysis-ii-fall-2005/443aa724dd5dfc776f614fa97c37175f_lecture31.pdf
+file_size: 187101
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

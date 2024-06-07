@@ -3,6 +3,7 @@ content_type: resource
 description: This resource provides information regarding chain rule, the mean-value
   theorem inn dimensions and inverse function theorem.
 file: /courses/18-101-analysis-ii-fall-2005/dae6e4ada4052d2312fc4bff6e9d6253_lecture5.pdf
+file_size: 169189
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

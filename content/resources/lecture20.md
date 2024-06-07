@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource explains the topics: determinant, orientations of vector
   spaces.'
 file: /courses/18-101-analysis-ii-fall-2005/af6a8dacd9c15ce839255eb69415a8b2_lecture20.pdf
+file_size: 192603
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

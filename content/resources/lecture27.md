@@ -2,6 +2,7 @@
 content_type: resource
 description: 'This resource explains the topics: proper maps and degree.'
 file: /courses/18-101-analysis-ii-fall-2005/71c41143e5e0215ef61c8d56948536c3_lecture27.pdf
+file_size: 195464
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
