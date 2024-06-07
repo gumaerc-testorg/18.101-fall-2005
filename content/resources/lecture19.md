@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource discusses the topic wedge product in detail.
 file: /courses/18-101-analysis-ii-fall-2005/d6445f3eed299f22676b8a165be04c7a_lecture19.pdf
+file_size: 191305
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

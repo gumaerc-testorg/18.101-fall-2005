@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource explains the topic differential forms on manifolds.
 file: /courses/18-101-analysis-ii-fall-2005/4600494370245b9db0f4823900ddc249_lecture33.pdf
+file_size: 188007
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

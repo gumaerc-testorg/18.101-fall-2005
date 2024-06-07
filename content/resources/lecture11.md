@@ -3,6 +3,7 @@ content_type: resource
 description: This resource provides information regarding riemann integral and integration
   over more general regions.
 file: /courses/18-101-analysis-ii-fall-2005/124d74b005a4e7e627f78d5d4ba7cbf6_lecture11.pdf
+file_size: 167907
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
