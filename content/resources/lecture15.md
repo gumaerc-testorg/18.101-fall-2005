@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides information regarding partition of unity theorem
   along with some definitions, remarks and corollary.
-file: /courses/18-101-analysis-ii-fall-2005/eb0e595a549af6086515db90e675c03f_lecture15.pdf
+file: /ol-ocw-studio-app/courses/18-101-analysis-ii-fall-2005/eb0e595a549af6086515db90e675c03f_lecture15.pdf
 file_size: 352731
 file_type: application/pdf
 learning_resource_types:
