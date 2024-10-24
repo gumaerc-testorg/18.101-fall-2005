@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource provides information regarding differentiation.
-file: /courses/18-101-analysis-ii-fall-2005/f3043f4372d0d0d09d408185d3094270_lecture3.pdf
+file: /ol-ocw-studio-app/courses/18-101-analysis-ii-fall-2005/f3043f4372d0d0d09d408185d3094270_lecture3.pdf
 file_size: 176792
 file_type: application/pdf
 learning_resource_types:

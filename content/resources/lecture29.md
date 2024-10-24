@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource explains the topic topological invariance of degree.
-file: /courses/18-101-analysis-ii-fall-2005/8f5cc88d4b6d8e97e2988fa9bbffb736_lecture29.pdf
+file: /ol-ocw-studio-app/courses/18-101-analysis-ii-fall-2005/8f5cc88d4b6d8e97e2988fa9bbffb736_lecture29.pdf
 file_size: 182199
 file_type: application/pdf
 learning_resource_types:

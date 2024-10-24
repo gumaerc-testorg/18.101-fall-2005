@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes information on linear algebra, tensors, alternating
   k-tensors, the space, and the wedge product.
-file: /courses/18-101-analysis-ii-fall-2005/4aa13eec01f3f70bd6eeeb7820d861a9_classnotesfall04.pdf
+file: /ol-ocw-studio-app/courses/18-101-analysis-ii-fall-2005/4aa13eec01f3f70bd6eeeb7820d861a9_classnotesfall04.pdf
 file_size: 393975
 file_type: application/pdf
 learning_resource_types:
