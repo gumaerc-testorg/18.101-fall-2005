@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This resource explains the topics: Degree on manifolds, Hopf theorem.'
-file: /courses/18-101-analysis-ii-fall-2005/f738081bb28c1f7434cd9241c55a8ef7_lecture36.pdf
+file: /ol-ocw-studio-app/courses/18-101-analysis-ii-fall-2005/f738081bb28c1f7434cd9241c55a8ef7_lecture36.pdf
 file_size: 183732
 file_type: application/pdf
 learning_resource_types:

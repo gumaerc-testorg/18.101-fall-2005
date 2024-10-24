@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides information regarding multilinear?algebra, review
   of linear algebra and topology and dual space.
-file: /courses/18-101-analysis-ii-fall-2005/9743fac5e8a674c78af0364a14b62ca6_lecture16.pdf
+file: /ol-ocw-studio-app/courses/18-101-analysis-ii-fall-2005/9743fac5e8a674c78af0364a14b62ca6_lecture16.pdf
 file_size: 342312
 file_type: application/pdf
 learning_resource_types:
