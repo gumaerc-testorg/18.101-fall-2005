@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource provides information regarding conditions for differentiability.
-file: /ol-ocw-studio-app/courses/18-101-analysis-ii-fall-2005/f44c1a167191021e2fe03da0763714c1_lecture4.pdf
+file: /courses/18-101-analysis-ii-fall-2005/f44c1a167191021e2fe03da0763714c1_lecture4.pdf
 file_size: 201336
 file_type: application/pdf
 learning_resource_types:

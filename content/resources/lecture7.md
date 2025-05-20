@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides information regarding discussion of inverse function
   theorem and integration.
-file: /ol-ocw-studio-app/courses/18-101-analysis-ii-fall-2005/84f47e5544704061843dc03a1f2e0bb8_lecture7.pdf
+file: /courses/18-101-analysis-ii-fall-2005/84f47e5544704061843dc03a1f2e0bb8_lecture7.pdf
 file_size: 166707
 file_type: application/pdf
 learning_resource_types:

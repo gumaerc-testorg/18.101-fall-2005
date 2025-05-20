@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides information regarding riemann integral of several
   variables.
-file: /ol-ocw-studio-app/courses/18-101-analysis-ii-fall-2005/5d39cf36fda914cf6db585c7aff75ea9_lecture8.pdf
+file: /courses/18-101-analysis-ii-fall-2005/5d39cf36fda914cf6db585c7aff75ea9_lecture8.pdf
 file_size: 169717
 file_type: application/pdf
 learning_resource_types:

@@ -3,7 +3,7 @@ content_type: resource
 description: 'There exists a sequence of rectangles, Ri, i = 0; : : : ; N + 1 such
   that R0 = Q0, RN+1 = Q and Int Ri \ Int Ri+1 is non-empty. (Figure by Prof. Victor
   Guillemin.)'
-file: /ol-ocw-studio-app/courses/18-101-analysis-ii-fall-2005/85039d705c63d3560c80ef124e2fc8e4_chp_sequence.jpg
+file: /courses/18-101-analysis-ii-fall-2005/85039d705c63d3560c80ef124e2fc8e4_chp_sequence.jpg
 file_size: 20782
 file_type: image/jpeg
 image_metadata:
