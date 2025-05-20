@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides information regarding improper integrals along
   with some definitions, remarks and corollary.
-file: /ol-ocw-studio-app/courses/18-101-analysis-ii-fall-2005/4b2dd38de326cb4d6498bb81e75ce476_lecture12.pdf
+file: /courses/18-101-analysis-ii-fall-2005/4b2dd38de326cb4d6498bb81e75ce476_lecture12.pdf
 file_size: 355687
 file_type: application/pdf
 learning_resource_types:

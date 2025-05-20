@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This resource explains the topics: regular values, degree formula.'
-file: /ol-ocw-studio-app/courses/18-101-analysis-ii-fall-2005/db5c8bc5b520598cd608e80fe3e41607_lecture28.pdf
+file: /courses/18-101-analysis-ii-fall-2005/db5c8bc5b520598cd608e80fe3e41607_lecture28.pdf
 file_size: 176250
 file_type: application/pdf
 learning_resource_types:

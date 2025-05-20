@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource explains the topics: Integration on manifolds, degree
   on manifolds.'
-file: /ol-ocw-studio-app/courses/18-101-analysis-ii-fall-2005/84414452f24d1dab07557858a3a06d55_lecture35.pdf
+file: /courses/18-101-analysis-ii-fall-2005/84414452f24d1dab07557858a3a06d55_lecture35.pdf
 file_size: 198222
 file_type: application/pdf
 learning_resource_types:

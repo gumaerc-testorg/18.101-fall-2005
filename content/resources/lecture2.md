@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource provides information regarding compactness and connectedness.
-file: /ol-ocw-studio-app/courses/18-101-analysis-ii-fall-2005/9fbab1cdcf1891806edaeb361c5976c3_lecture2.pdf
+file: /courses/18-101-analysis-ii-fall-2005/9fbab1cdcf1891806edaeb361c5976c3_lecture2.pdf
 file_size: 179275
 file_type: application/pdf
 learning_resource_types:
