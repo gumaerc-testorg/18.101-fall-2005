@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides information regarding exhaustions along with some
   definitions, remarks and corollary.
-file: /courses/18-101-analysis-ii-fall-2005/88e9159035a7fd983c30af56168f33bf_lecture13.pdf
+file: /ol-ocw-studio-app/courses/18-101-analysis-ii-fall-2005/88e9159035a7fd983c30af56168f33bf_lecture13.pdf
 file_size: 371501
 file_type: application/pdf
 learning_resource_types:
