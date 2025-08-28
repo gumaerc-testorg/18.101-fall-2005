@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource explains the topics: integration with differential forms,
   change of variables theorem, Sard''s theorem.'
-file: /courses/18-101-analysis-ii-fall-2005/920765d55d65e49f4ced02766caa1544_lecture23.pdf
+file: /ol-ocw-studio-app/courses/18-101-analysis-ii-fall-2005/920765d55d65e49f4ced02766caa1544_lecture23.pdf
 file_size: 201987
 file_type: application/pdf
 learning_resource_types:
